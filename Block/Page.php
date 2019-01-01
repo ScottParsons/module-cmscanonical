@@ -3,7 +3,7 @@
  * @package    ScottParsons_CmsCanonical
  * @copyright  Copyright (c) 2019 Scott Parsons
  * @license    https://github.com/ScottParsons/module-cmscanonical/blob/master/LICENSE.md
- * @version    1.0.0
+ * @version    1.0.1
  */
 namespace ScottParsons\CmsCanonical\Block;
 

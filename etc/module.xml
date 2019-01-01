@@ -4,9 +4,9 @@
  * @package    ScottParsons_CmsCanonical
  * @copyright  Copyright (c) 2019 Scott Parsons
  * @license    https://github.com/ScottParsons/module-cmscanonical/blob/master/LICENSE.md
- * @version    1.0.0
+ * @version    1.0.1
  */
  -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="ScottParsons_CmsCanonical" setup_version="1.0.0" />
+    <module name="ScottParsons_CmsCanonical" setup_version="1.0.1" />
 </config>
